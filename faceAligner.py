@@ -7,10 +7,10 @@ import urllib.request
 import time
 import requests
 
-START_MONTH = 11
-START_DATE = 17
-START_SLOT = 6
-imageCounter = 12500
+START_MONTH = 0
+START_DATE = 0
+START_SLOT = 0
+imageCounter = 0
 
 
 DESIRED_X = 32
